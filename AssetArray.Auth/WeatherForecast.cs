@@ -1,4 +1,4 @@
-namespace AssetArray_API
+namespace AssetArray.Auth
 {
     public class WeatherForecast
     {

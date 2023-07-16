@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace AssetArray_API.Controllers
+namespace AssetArray.Auth.Controllers
 {
     [ApiController]
     [Route("[controller]")]
