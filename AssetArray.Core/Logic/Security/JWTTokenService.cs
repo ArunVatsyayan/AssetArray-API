@@ -4,7 +4,7 @@ using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
 
-namespace AssetArray_API.Logic.Security
+namespace AssetArray.Core.Logic.Security
 {
     public interface IJWTTokenService
     {

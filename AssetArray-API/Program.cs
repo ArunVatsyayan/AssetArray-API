@@ -1,4 +1,4 @@
-using AssetArray_API.Logic.Security;
+using AssetArray.Core.Logic.Security;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;

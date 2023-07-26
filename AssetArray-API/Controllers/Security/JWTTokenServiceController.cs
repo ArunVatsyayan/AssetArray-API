@@ -1,4 +1,4 @@
-﻿using AssetArray_API.Logic.Security;
+﻿using AssetArray.Core.Logic.Security;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
